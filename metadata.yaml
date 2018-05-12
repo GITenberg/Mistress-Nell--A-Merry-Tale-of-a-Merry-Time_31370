@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35182
     wikipedia: http://en.wikipedia.org/wiki/George_Cochrane_Hazelton_%28actor_and_playwright%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31370#Mistress-Nell--A-Merry-Tale-of-a-Merry-Time
 gutenberg_issued: '2010-02-23'
 gutenberg_type: Text
 identifiers:
