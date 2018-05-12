@@ -1,0 +1,32 @@
+_repo: Mistress-Nell--A-Merry-Tale-of-a-Merry-Time_31370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hazelton, George Cochrane
+    alias: Hazelton, George C. (George Cochrane)
+    birthdate: 1868
+    deathdate: 1921
+    gutenberg_agent_id: '35182'
+    url: http://www.gutenberg.org/2009/agents/35182
+    wikipedia: http://en.wikipedia.org/wiki/George_Cochrane_Hazelton_%28actor_and_playwright%29
+description: ''
+gutenberg_issued: '2010-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gwyn, Nell, 1650-1687 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Actresses -- Fiction'
+- !lcsh 'Mistresses -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction'
+title: 'Mistress Nell: A Merry Tale of a Merry Time'
+url: http://www.gutenberg.org/ebooks/31370
